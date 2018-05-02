@@ -1,0 +1,4 @@
+data/maria/*
+data/mysql/*
+www/*
+.DS_STORE
